@@ -1,0 +1,8 @@
+.box [type=text]{
+  margin-top: 5vh;
+  width: 40vw;
+  border: none;
+  text-align: center;
+  font-size: xx-large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}

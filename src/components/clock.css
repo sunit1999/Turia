@@ -1,0 +1,12 @@
+.clock {
+      margin-top: 10vh;     
+      height: 70vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+}
+
+p {
+      font-size: xx-large;
+}
