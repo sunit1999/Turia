@@ -2,7 +2,7 @@
   "name": "turia",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sunit1999/Turia",
+  "homepage": "https://github.com/sunit1999/turia",
   "dependencies": {
     "@fseehawer/react-circular-slider": "^2.3.5",
     "@testing-library/jest-dom": "^5.12.0",
